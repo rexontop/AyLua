@@ -1,5 +1,5 @@
 -- Ultimate Mega Script Hub v2 by YourName
-local Rayfield = loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Rayfield/main/source"))()
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Window = Rayfield:CreateWindow({
     Name = "Chaos By IP™",
     LoadingTitle = "Loading scripts...",
