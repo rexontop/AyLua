@@ -4,7 +4,7 @@ local Window = Rayfield:CreateWindow({
     Name = "Chaos By IP™",
     LoadingTitle = "Loading scripts...",
     LoadingSubtitle = "R3xz",
-    ConfigurationSaving = {Enabled = true, FolderName = "MegaScriptHubV2", FileName = "Config"}
+    ConfigurationSaving = {Enabled = true, FolderName = "Chaos💨", FileName = "Config"}
 })
 
 local scripts = {
