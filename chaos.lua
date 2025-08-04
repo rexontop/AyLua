@@ -225,8 +225,8 @@ local placeId = game.PlaceId
 local gamePlaceIdMap = {
     -- Map PlaceId to game names used in scripts table --
     -- These are some example PlaceIds, replace or add actual ones --
-    [536102540] = "Brookhaven 🏡RP",       -- Brookhaven main placeId
-    [6700048581] = "Grow A Garden",        -- Example Grow A Garden placeId
+    [4924922222] = "Brookhaven 🏡RP",       -- Brookhaven main placeId
+    [126884695634066] = "Grow A Garden",        -- Example Grow A Garden placeId
     [6284583030] = "Pet Simulator X",      -- Pet Simulator X main placeId
     [606849621] = "Jailbreak",              -- Jailbreak main placeId
     [2753915549] = "Blox Fruits",           -- Blox Fruits main placeId
