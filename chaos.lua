@@ -1,41 +1,41 @@
-local Rayfield = loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Rayfield/main/source"))()
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
     Name = "Chaos By IP™",
-    LoadingTitle = "Chaos GUI",
-    LoadingSubtitle = "By IP™ Team",
+    LoadingTitle = "Chaos By IP™",
+    LoadingSubtitle = "Loading Scripts...",
     ConfigurationSaving = {
         Enabled = true,
-        FolderName = "ChaosConfig"
+        FolderName = "ChaosByIP",
+        FileName = "Config"
     }
 })
 
 local base_url = "https://raw.githubusercontent.com/rexontop/AyLua/main/"
+
 local games = {
     ["Brookhaven 🏡RP"] = "Brookhaven.lua",
     ["Pet Simulator X"] = "PetSimulatorX.lua",
-    ["Jailbreak"] = "Jailbreak.lua",
-    ["Grow A Garden"] = "GrowAGarden.lua",
-    ["Blox Fruits"] = "BloxFruits.lua",
-    ["Arsenal"] = "Arsenal.lua"
+    ["Jailbreak"] = "Jailbreak.lua"
 }
 
 for gameName, file in pairs(games) do
-    local Tab = Window:CreateTab(gameName, 4483362458)
-    local success, scriptList = pcall(function()
+    local Tab = Window:CreateTab(gameName, 4483362458) -- 4483362458 is an example icon id
+
+    local success, scripts = pcall(function()
         return loadstring(game:HttpGet(base_url .. file))()
     end)
 
-    if success and type(scriptList) == "table" then
-        for _, entry in ipairs(scriptList) do
+    if success and type(scripts) == "table" then
+        for _, scriptEntry in ipairs(scripts) do
             Tab:CreateButton({
-                Name = entry[1],
+                Name = scriptEntry[1],
                 Callback = function()
-                    loadstring(game:HttpGet(entry[2]))()
+                    loadstring(game:HttpGet(scriptEntry[2]))()
                 end
             })
         end
     else
-        Tab:CreateLabel("❌ Failed to load scripts.")
+        Tab:CreateLabel("Failed to load scripts for " .. gameName)
     end
 end
