@@ -16,7 +16,10 @@ local base_url = "https://raw.githubusercontent.com/rexontop/AyLua/main/"
 local games = {
     ["Brookhaven 🏡RP"] = "Brookhaven.lua",
     ["Pet Simulator X"] = "PetSimulatorX.lua",
-    ["Jailbreak"] = "Jailbreak.lua"
+    ["Jailbreak"] = "Jailbreak.lua",
+    ["Piggy"] = "Piggy.lua",
+    ["GrowAGarden"] = "GrowAGarden.lua",
+    ["Arsenal"] = "Arsenal.lua
 }
 
 for gameName, file in pairs(games) do
