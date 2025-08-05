@@ -1,0 +1,22 @@
+return {
+        {"Blox Fruits GUI", "https://raw.githubusercontent.com/Bluxxy/BloxFruits/main/Main.lua"},
+        {"Blox Fruits Auto Farm", "https://raw.githubusercontent.com/Bluxxy/BloxFruits/main/AutoFarm.lua"},
+        {"Blox Fruits Infinite Yield", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
+        {"Blox Fruits Teleport GUI", "https://raw.githubusercontent.com/Bluxxy/BloxFruits/main/Teleport.lua"},
+        {"Blox Fruits ESP", "https://raw.githubusercontent.com/Bluxxy/BloxFruits/main/ESP.lua"},
+        {"Blox Fruits Auto Skill", "https://raw.githubusercontent.com/Bluxxy/BloxFruits/main/AutoSkill.lua"},
+        {"Blox Fruits Auto Quest", "https://raw.githubusercontent.com/Bluxxy/BloxFruits/main/AutoQuest.lua"},
+        {"Blox Fruits Auto Sell", "https://raw.githubusercontent.com/Bluxxy/BloxFruits/main/AutoSell.lua"},
+        {"Blox Fruits Infinite Stamina", "https://raw.githubusercontent.com/Bluxxy/BloxFruits/main/InfiniteStamina.lua"},
+        {"Blox Fruits No Clip", "https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source"},
+        {"Blox Fruits God Mode", "https://raw.githubusercontent.com/Bluxxy/BloxFruits/main/GodMode.lua"},
+        {"Blox Fruits Speed Hack", "https://raw.githubusercontent.com/Bluxxy/BloxFruits/main/SpeedHack.lua"},
+        {"Blox Fruits Auto Rebirth", "https://raw.githubusercontent.com/Bluxxy/BloxFruits/main/AutoRebirth.lua"},
+        {"Blox Fruits Vehicle Fly", "https://raw.githubusercontent.com/The1Emerald/RobloxScripts/main/VehicleFly.lua"},
+        {"Blox Fruits Chat Spoofer", "https://raw.githubusercontent.com/Bluxxy/BloxFruits/main/ChatSpoofer.lua"},
+        {"Blox Fruits Anti Kick", "https://raw.githubusercontent.com/Bluxxy/BloxFruits/main/AntiKick.lua"},
+        {"Blox Fruits Auto Unlock", "https://raw.githubusercontent.com/Bluxxy/BloxFruits/main/AutoUnlock.lua"},
+        {"Blox Fruits Infinite Jump", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
+        {"Blox Fruits Auto Craft", "https://raw.githubusercontent.com/Bluxxy/BloxFruits/main/AutoCraft.lua"},
+        {"Blox Fruits Auto Collect", "https://raw.githubusercontent.com/Bluxxy/BloxFruits/main/AutoCollect.lua"}
+}
