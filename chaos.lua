@@ -11,7 +11,7 @@ local Window = Rayfield:CreateWindow({
     }
 })
 
-local base_url = "https://raw.githubusercontent.com/rexontop/AyLua/main/"
+local base_url = "https://raw.githubusercontent.com/rexontop/AyLua/main/scripts/"
 
 local games = {
     ["Brookhaven 🏡RP"] = "Brookhaven.lua",
