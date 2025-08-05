@@ -1,0 +1,22 @@
+return {
+        {"Grow A Garden GUI", "https://raw.githubusercontent.com/EliteScripter/GrowAGarden/main/Main.lua"},
+        {"Auto Plant & Harvest", "https://raw.githubusercontent.com/EliteScripter/GrowAGarden/main/AutoPlantHarvest.lua"},
+        {"Speed Hack", "https://raw.githubusercontent.com/EliteScripter/GrowAGarden/main/SpeedHack.lua"},
+        {"Auto Sell", "https://raw.githubusercontent.com/EliteScripter/GrowAGarden/main/AutoSell.lua"},
+        {"Teleport GUI", "https://raw.githubusercontent.com/EliteScripter/GrowAGarden/main/TeleportGui.lua"},
+        {"Grow A Garden ESP", "https://raw.githubusercontent.com/EliteScripter/GrowAGarden/main/ESP.lua"},
+        {"Infinite Jump", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
+        {"WalkSpeed Boost", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
+        {"Jump Power Boost", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
+        {"No Clip", "https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source"},
+        {"Auto Craft", "https://raw.githubusercontent.com/EliteScripter/GrowAGarden/main/AutoCraft.lua"},
+        {"Auto Water", "https://raw.githubusercontent.com/EliteScripter/GrowAGarden/main/AutoWater.lua"},
+        {"Auto Fertilize", "https://raw.githubusercontent.com/EliteScripter/GrowAGarden/main/AutoFertilize.lua"},
+        {"Auto Harvest", "https://raw.githubusercontent.com/EliteScripter/GrowAGarden/main/AutoHarvest.lua"},
+        {"Speed Run", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
+        {"Vehicle Fly", "https://raw.githubusercontent.com/The1Emerald/RobloxScripts/main/VehicleFly.lua"},
+        {"Auto Pick Up", "https://raw.githubusercontent.com/EliteScripter/GrowAGarden/main/AutoPickup.lua"},
+        {"God Mode", "https://raw.githubusercontent.com/EliteScripter/GrowAGarden/main/GodMode.lua"},
+        {"Anti Kick", "https://raw.githubusercontent.com/EliteScripter/GrowAGarden/main/AntiKick.lua"},
+        {"Chat Spoofer", "https://raw.githubusercontent.com/EliteScripter/GrowAGarden/main/ChatSpoofer.lua"}
+}
