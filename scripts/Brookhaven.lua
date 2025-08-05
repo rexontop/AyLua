@@ -1,0 +1,22 @@
+return {
+        {"Chaos Hub V3", "https://raw.githubusercontent.com/7GrandDadPGN/V3rmScripts/main/Chaos%20Hub%20V3.lua"},
+        {"Infinite Yield", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
+        {"Dex Explorer", "https://raw.githubusercontent.com/EdgeIY/Dex/master/source"},
+        {"CMD-X", "https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source"},
+        {"Shark Hub", "https://raw.githubusercontent.com/SHARKHUBDEV/SHARKHUB/main/Loader.lua"},
+        {"Brookhaven GUI", "https://raw.githubusercontent.com/The1Emerald/RobloxScripts/main/BrookhavenGUI.lua"},
+        {"Brookhaven Auto Farm", "https://raw.githubusercontent.com/AlexBarrosRoblox/Scripts/main/Brookhaven/AutoFarm.lua"},
+        {"Brookhaven Speed Hack", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
+        {"Brookhaven Fly", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
+        {"Brookhaven Teleport GUI", "https://raw.githubusercontent.com/RedSecura/BrookhavenScripts/main/TeleportGui.lua"},
+        {"Brookhaven Sit Toggle", "https://raw.githubusercontent.com/7GrandDadPGN/V3rmScripts/main/SitToggle.lua"},
+        {"Brookhaven Vehicle Fly", "https://raw.githubusercontent.com/The1Emerald/RobloxScripts/main/VehicleFly.lua"},
+        {"Brookhaven Infinite Jump", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
+        {"Brookhaven No Clip", "https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source"},
+        {"Brookhaven Auto Sell", "https://raw.githubusercontent.com/EliteScripter/Brookhaven/main/AutoSell.lua"},
+        {"Brookhaven ESP", "https://raw.githubusercontent.com/SHARKHUBDEV/SHARKHUB/main/ESP.lua"},
+        {"Brookhaven Gun Mods", "https://raw.githubusercontent.com/7GrandDadPGN/V3rmScripts/main/GunMods.lua"},
+        {"Brookhaven Anti Kick", "https://raw.githubusercontent.com/AlexBarrosRoblox/Scripts/main/AntiKick.lua"},
+        {"Brookhaven God Mode", "https://raw.githubusercontent.com/EliteScripter/Brookhaven/main/GodMode.lua"},
+        {"Brookhaven Chat Spoofer", "https://raw.githubusercontent.com/RedSecura/BrookhavenScripts/main/ChatSpoofer.lua"}
+}
