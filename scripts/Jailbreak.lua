@@ -1,0 +1,22 @@
+return {
+        {"Jailbreak Infinite Yield", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
+        {"Jailbreak Auto Farm", "https://raw.githubusercontent.com/AstroCats/JailbreakAutoFarm/main/main.lua"},
+        {"Jailbreak Teleport GUI", "https://raw.githubusercontent.com/AstroCats/JailbreakTeleportGui/main/main.lua"},
+        {"Jailbreak ESP", "https://raw.githubusercontent.com/AstroCats/JailbreakESP/main/main.lua"},
+        {"Jailbreak Vehicle Fly", "https://raw.githubusercontent.com/The1Emerald/RobloxScripts/main/VehicleFly.lua"},
+        {"Jailbreak Infinite Jump", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
+        {"Jailbreak Speed Hack", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
+        {"Jailbreak No Clip", "https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source"},
+        {"Jailbreak Auto Rob", "https://raw.githubusercontent.com/AstroCats/JailbreakAutoRob/main/main.lua"},
+        {"Jailbreak Anti Kick", "https://raw.githubusercontent.com/AstroCats/JailbreakAntiKick/main/main.lua"},
+        {"Jailbreak God Mode", "https://raw.githubusercontent.com/AstroCats/JailbreakGodMode/main/main.lua"},
+        {"Jailbreak Auto Heal", "https://raw.githubusercontent.com/AstroCats/JailbreakAutoHeal/main/main.lua"},
+        {"Jailbreak Weapon Mods", "https://raw.githubusercontent.com/AstroCats/JailbreakWeaponMods/main/main.lua"},
+        {"Jailbreak Chat Spoofer", "https://raw.githubusercontent.com/AstroCats/JailbreakChatSpoofer/main/main.lua"},
+        {"Jailbreak Auto Escape", "https://raw.githubusercontent.com/AstroCats/JailbreakAutoEscape/main/main.lua"},
+        {"Jailbreak Auto Jail", "https://raw.githubusercontent.com/AstroCats/JailbreakAutoJail/main/main.lua"},
+        {"Jailbreak Infinite Stamina", "https://raw.githubusercontent.com/AstroCats/JailbreakInfiniteStamina/main/main.lua"},
+        {"Jailbreak Auto Sell", "https://raw.githubusercontent.com/AstroCats/JailbreakAutoSell/main/main.lua"},
+        {"Jailbreak Auto Repair", "https://raw.githubusercontent.com/AstroCats/JailbreakAutoRepair/main/main.lua"},
+        {"Jailbreak Vehicle Mods", "https://raw.githubusercontent.com/AstroCats/JailbreakVehicleMods/main/main.lua"}
+}
