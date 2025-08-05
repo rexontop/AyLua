@@ -1,0 +1,22 @@
+return {
+        {"Tower of Hell GUI", "https://raw.githubusercontent.com/The1Emerald/RobloxScripts/main/TowerOfHellGui.lua"},
+        {"Tower of Hell Auto Climb", "https://raw.githubusercontent.com/The1Emerald/RobloxScripts/main/AutoClimb.lua"},
+        {"Tower of Hell Infinite Yield", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
+        {"Tower of Hell Teleport GUI", "https://raw.githubusercontent.com/The1Emerald/RobloxScripts/main/TeleportGui.lua"},
+        {"Tower of Hell No Clip", "https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source"},
+        {"Tower of Hell Speed Hack", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
+        {"Tower of Hell Infinite Jump", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
+        {"Tower of Hell Anti Kick", "https://raw.githubusercontent.com/The1Emerald/RobloxScripts/main/AntiKick.lua"},
+        {"Tower of Hell Auto Save Checkpoint", "https://raw.githubusercontent.com/The1Emerald/RobloxScripts/main/AutoCheckpoint.lua"},
+        {"Tower of Hell God Mode", "https://raw.githubusercontent.com/The1Emerald/RobloxScripts/main/GodMode.lua"},
+        {"Tower of Hell ESP", "https://raw.githubusercontent.com/The1Emerald/RobloxScripts/main/ESP.lua"},
+        {"Tower of Hell Chat Spoofer", "https://raw.githubusercontent.com/The1Emerald/RobloxScripts/main/ChatSpoofer.lua"},
+        {"Tower of Hell Auto Finish", "https://raw.githubusercontent.com/The1Emerald/RobloxScripts/main/AutoFinish.lua"},
+        {"Tower of Hell Vehicle Fly", "https://raw.githubusercontent.com/The1Emerald/RobloxScripts/main/VehicleFly.lua"},
+        {"Tower of Hell Infinite Stamina", "https://raw.githubusercontent.com/The1Emerald/RobloxScripts/main/InfiniteStamina.lua"},
+        {"Tower of Hell Auto Collect", "https://raw.githubusercontent.com/The1Emerald/RobloxScripts/main/AutoCollect.lua"},
+        {"Tower of Hell Auto Respawn", "https://raw.githubusercontent.com/The1Emerald/RobloxScripts/main/AutoRespawn.lua"},
+        {"Tower of Hell WalkSpeed Boost", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
+        {"Tower of Hell JumpPower Boost", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
+        {"Tower of Hell Auto Teleport", "https://raw.githubusercontent.com/The1Emerald/RobloxScripts/main/AutoTeleport.lua"}
+}
