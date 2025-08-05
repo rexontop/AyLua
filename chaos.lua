@@ -1,40 +1,45 @@
--- Ultimate Mega Script Hub v2 by YourName
-local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+local Rayfield = loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Rayfield/main/source"))()
+
 local Window = Rayfield:CreateWindow({
     Name = "Chaos By IP™",
-    LoadingTitle = "Loading scripts...",
-    LoadingSubtitle = "R3xz",
-    ConfigurationSaving = {Enabled = true, FolderName = "Chaos💨", FileName = "Config"}
+    LoadingTitle = "Chaos GUI",
+    LoadingSubtitle = "By IP™ Team",
+    ConfigurationSaving = {
+        Enabled = true,
+        FolderName = "ChaosConfig"
+    }
 })
 
-local scripts = {
-    -- Original 5 games --
-    ["Brookhaven 🏡RP"] = {
-        {"Chaos Hub V3", "https://raw.githubusercontent.com/7GrandDadPGN/V3rmScripts/main/Chaos%20Hub%20V3.lua"},
-        {"Infinite Yield", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
-        {"Dex Explorer", "https://raw.githubusercontent.com/EdgeIY/Dex/master/source"},
-        {"CMD-X", "https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source"},
-        {"Shark Hub", "https://raw.githubusercontent.com/SHARKHUBDEV/SHARKHUB/main/Loader.lua"},
-        {"Brookhaven GUI", "https://raw.githubusercontent.com/The1Emerald/RobloxScripts/main/BrookhavenGUI.lua"},
-        {"Brookhaven Auto Farm", "https://raw.githubusercontent.com/AlexBarrosRoblox/Scripts/main/Brookhaven/AutoFarm.lua"},
-        {"Brookhaven Speed Hack", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
-        {"Brookhaven Fly", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
-        {"Brookhaven Teleport GUI", "https://raw.githubusercontent.com/RedSecura/BrookhavenScripts/main/TeleportGui.lua"},
-        {"Brookhaven Sit Toggle", "https://raw.githubusercontent.com/7GrandDadPGN/V3rmScripts/main/SitToggle.lua"},
-        {"Brookhaven Vehicle Fly", "https://raw.githubusercontent.com/The1Emerald/RobloxScripts/main/VehicleFly.lua"},
-        {"Brookhaven Infinite Jump", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
-        {"Brookhaven No Clip", "https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source"},
-        {"Brookhaven Auto Sell", "https://raw.githubusercontent.com/EliteScripter/Brookhaven/main/AutoSell.lua"},
-        {"Brookhaven ESP", "https://raw.githubusercontent.com/SHARKHUBDEV/SHARKHUB/main/ESP.lua"},
-        {"Brookhaven Gun Mods", "https://raw.githubusercontent.com/7GrandDadPGN/V3rmScripts/main/GunMods.lua"},
-        {"Brookhaven Anti Kick", "https://raw.githubusercontent.com/AlexBarrosRoblox/Scripts/main/AntiKick.lua"},
-        {"Brookhaven God Mode", "https://raw.githubusercontent.com/EliteScripter/Brookhaven/main/GodMode.lua"},
-        {"Brookhaven Chat Spoofer", "https://raw.githubusercontent.com/RedSecura/BrookhavenScripts/main/ChatSpoofer.lua"}
-    },
+local base_url = "https://raw.githubusercontent.com/YourUsername/ChaosHub-Scripts/main/"
+local games = {
+    ["Brookhaven 🏡RP"] = "Brookhaven.lua",
+    ["Pet Simulator X"] = "PetSimulatorX.lua",
+    ["Jailbreak"] = "Jailbreak.lua",
+    ["Grow A Garden"] = "GrowAGarden.lua",
+    ["Blox Fruits"] = "BloxFruits.lua",
+    ["Arsenal"] = "Arsenal.lua"
+}
 
-    ["Grow A Garden"] = {
-        {"Grow A Garden GUI", "https://raw.githubusercontent.com/EliteScripter/GrowAGarden/main/Main.lua"},
-        {"Auto Plant & Harvest", "https://raw.githubusercontent.com/EliteScripter/GrowAGarden/main/AutoPlantHarvest.lua"},
+for gameName, file in pairs(games) do
+    local Tab = Window:CreateTab(gameName, 4483362458)
+    local success, scriptList = pcall(function()
+        return loadstring(game:HttpGet(base_url .. file))()
+    end)
+
+    if success and type(scriptList) == "table" then
+        for _, entry in ipairs(scriptList) do
+            Tab:CreateButton({
+                Name = entry[1],
+                Callback = function()
+                    loadstring(game:HttpGet(entry[2]))()
+                end
+            })
+        end
+    else
+        Tab:CreateLabel("❌ Failed to load scripts.")
+    end
+end
+{"Auto Plant & Harvest", "https://raw.githubusercontent.com/EliteScripter/GrowAGarden/main/AutoPlantHarvest.lua"},
         {"Speed Hack", "https://raw.githubusercontent.com/EliteScripter/GrowAGarden/main/SpeedHack.lua"},
         {"Auto Sell", "https://raw.githubusercontent.com/EliteScripter/GrowAGarden/main/AutoSell.lua"},
         {"Teleport GUI", "https://raw.githubusercontent.com/EliteScripter/GrowAGarden/main/TeleportGui.lua"},
