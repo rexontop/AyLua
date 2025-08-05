@@ -1,0 +1,22 @@
+return {
+        {"Arsenal GUI", "https://raw.githubusercontent.com/AlphaVoid/Arsenal/main/Gui.lua"},
+        {"Arsenal Aim Assist", "https://raw.githubusercontent.com/AlphaVoid/Arsenal/main/AimAssist.lua"},
+        {"Arsenal Infinite Yield", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
+        {"Arsenal ESP", "https://raw.githubusercontent.com/AlphaVoid/Arsenal/main/ESP.lua"},
+        {"Arsenal Auto Farm", "https://raw.githubusercontent.com/AlphaVoid/Arsenal/main/AutoFarm.lua"},
+        {"Arsenal No Recoil", "https://raw.githubusercontent.com/AlphaVoid/Arsenal/main/NoRecoil.lua"},
+        {"Arsenal Infinite Ammo", "https://raw.githubusercontent.com/AlphaVoid/Arsenal/main/InfiniteAmmo.lua"},
+        {"Arsenal Teleport GUI", "https://raw.githubusercontent.com/AlphaVoid/Arsenal/main/Teleport.lua"},
+        {"Arsenal Speed Hack", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
+        {"Arsenal Infinite Jump", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
+        {"Arsenal Vehicle Fly", "https://raw.githubusercontent.com/The1Emerald/RobloxScripts/main/VehicleFly.lua"},
+        {"Arsenal Auto Respawn", "https://raw.githubusercontent.com/AlphaVoid/Arsenal/main/AutoRespawn.lua"},
+        {"Arsenal Chat Spoofer", "https://raw.githubusercontent.com/AlphaVoid/Arsenal/main/ChatSpoofer.lua"},
+        {"Arsenal Anti Kick", "https://raw.githubusercontent.com/AlphaVoid/Arsenal/main/AntiKick.lua"},
+        {"Arsenal God Mode", "https://raw.githubusercontent.com/AlphaVoid/Arsenal/main/GodMode.lua"},
+        {"Arsenal Auto Buy", "https://raw.githubusercontent.com/AlphaVoid/Arsenal/main/AutoBuy.lua"},
+        {"Arsenal Auto Equip", "https://raw.githubusercontent.com/AlphaVoid/Arsenal/main/AutoEquip.lua"},
+        {"Arsenal Auto Reload", "https://raw.githubusercontent.com/AlphaVoid/Arsenal/main/AutoReload.lua"},
+        {"Arsenal Auto Pick Up", "https://raw.githubusercontent.com/AlphaVoid/Arsenal/main/AutoPickup.lua"},
+        {"Arsenal Infinite Stamina", "https://raw.githubusercontent.com/AlphaVoid/Arsenal/main/InfiniteStamina.lua"}
+    }
