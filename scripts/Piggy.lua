@@ -1,0 +1,22 @@
+return {
+        {"Piggy GUI", "https://raw.githubusercontent.com/AlphaVoid/Piggy/main/Gui.lua"},
+        {"Piggy Infinite Yield", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
+        {"Piggy Auto Farm", "https://raw.githubusercontent.com/AlphaVoid/Piggy/main/AutoFarm.lua"},
+        {"Piggy Teleport GUI", "https://raw.githubusercontent.com/AlphaVoid/Piggy/main/Teleport.lua"},
+        {"Piggy ESP", "https://raw.githubusercontent.com/AlphaVoid/Piggy/main/ESP.lua"},
+        {"Piggy Auto Save", "https://raw.githubusercontent.com/AlphaVoid/Piggy/main/AutoSave.lua"},
+        {"Piggy Infinite Jump", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
+        {"Piggy Speed Hack", "https://raw.githubusercontent.com/AlphaVoid/Piggy/main/SpeedHack.lua"},
+        {"Piggy No Clip", "https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source"},
+        {"Piggy God Mode", "https://raw.githubusercontent.com/AlphaVoid/Piggy/main/GodMode.lua"},
+        {"Piggy Auto Unlock", "https://raw.githubusercontent.com/AlphaVoid/Piggy/main/AutoUnlock.lua"},
+        {"Piggy Auto Collect", "https://raw.githubusercontent.com/AlphaVoid/Piggy/main/AutoCollect.lua"},
+        {"Piggy Chat Spoofer", "https://raw.githubusercontent.com/AlphaVoid/Piggy/main/ChatSpoofer.lua"},
+        {"Piggy Anti Kick", "https://raw.githubusercontent.com/AlphaVoid/Piggy/main/AntiKick.lua"},
+        {"Piggy Auto Repair", "https://raw.githubusercontent.com/AlphaVoid/Piggy/main/AutoRepair.lua"},
+        {"Piggy Vehicle Fly", "https://raw.githubusercontent.com/The1Emerald/RobloxScripts/main/VehicleFly.lua"},
+        {"Piggy Auto Escape", "https://raw.githubusercontent.com/AlphaVoid/Piggy/main/AutoEscape.lua"},
+        {"Piggy Auto Open Door", "https://raw.githubusercontent.com/AlphaVoid/Piggy/main/AutoOpenDoor.lua"},
+        {"Piggy Infinite Stamina", "https://raw.githubusercontent.com/AlphaVoid/Piggy/main/InfiniteStamina.lua"},
+        {"Piggy Auto Respawn", "https://raw.githubusercontent.com/AlphaVoid/Piggy/main/AutoRespawn.lua"}
+}
