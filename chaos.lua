@@ -19,7 +19,8 @@ local games = {
     ["Jailbreak"] = "Jailbreak.lua",
     ["Piggy"] = "Piggy.lua",
     ["GrowAGarden"] = "GrowAGarden.lua",
-    ["Arsenal"] = "Arsenal.lua
+    ["Arsenal"] = "Arsenal.lua",
+    ["BloxFruits"] = "BloxFruits.lua"
 }
 
 for gameName, file in pairs(games) do
