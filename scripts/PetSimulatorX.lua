@@ -1,0 +1,22 @@
+return {
+        {"PSX Auto Farm", "https://raw.githubusercontent.com/EliteScripter/PSXAutoFarm/main.lua"},
+        {"PSX Auto Hatch", "https://raw.githubusercontent.com/EliteScripter/PSXAutoHatch/main.lua"},
+        {"PSX Infinite Yield", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"},
+        {"PSX Teleport GUI", "https://raw.githubusercontent.com/EliteScripter/PSXTeleportGui/main.lua"},
+        {"PSX ESP", "https://raw.githubusercontent.com/EliteScripter/PSXESP/main.lua"},
+        {"PSX Auto Sell", "https://raw.githubusercontent.com/EliteScripter/PSXAutoSell/main.lua"},
+        {"PSX God Mode", "https://raw.githubusercontent.com/EliteScripter/PSXGodMode/main.lua"},
+        {"PSX Speed Hack", "https://raw.githubusercontent.com/EliteScripter/PSXSpeedHack/main.lua"},
+        {"PSX Infinite Jump", "https://raw.githubusercontent.com/EliteScripter/PSXInfiniteJump/main.lua"},
+        {"PSX No Clip", "https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source"},
+        {"PSX Anti Kick", "https://raw.githubusercontent.com/EliteScripter/PSXAntiKick/main.lua"},
+        {"PSX Auto Quest", "https://raw.githubusercontent.com/EliteScripter/PSXAutoQuest/main.lua"},
+        {"PSX Auto Rebirth", "https://raw.githubusercontent.com/EliteScripter/PSXAutoRebirth/main.lua"},
+        {"PSX Vehicle Fly", "https://raw.githubusercontent.com/The1Emerald/RobloxScripts/main/VehicleFly.lua"},
+        {"PSX Chat Spoofer", "https://raw.githubusercontent.com/EliteScripter/PSXChatSpoofer/main.lua"},
+        {"PSX Infinite Stamina", "https://raw.githubusercontent.com/EliteScripter/PSXInfiniteStamina/main.lua"},
+        {"PSX Auto Collect", "https://raw.githubusercontent.com/EliteScripter/PSXAutoCollect/main.lua"},
+        {"PSX Auto Upgrade", "https://raw.githubusercontent.com/EliteScripter/PSXAutoUpgrade/main.lua"},
+        {"PSX Auto Craft", "https://raw.githubusercontent.com/EliteScripter/PSXAutoCraft/main.lua"},
+        {"PSX Auto Unlock", "https://raw.githubusercontent.com/EliteScripter/PSXAutoUnlock/main.lua"}
+}
